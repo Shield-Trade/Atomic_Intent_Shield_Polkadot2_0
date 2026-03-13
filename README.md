@@ -2,7 +2,7 @@
 
 Privacy-preserving intent trading on Revive-compatible EVM infrastructure, aligned with Polkadot 2.0 scaling goals.
 
-## 30-Second Summary
+## Summary
 
 Atomic Intent Shield lets users submit private intents (instead of public orders), generate ZK proofs client-side, and settle matched trades atomically through smart contracts.
 
@@ -13,6 +13,9 @@ Core properties:
 - Revive-compatible EVM deployment path for Ethereum tooling migration
 
 Track: Revive Migration Challenge
+
+## Video Demo:
+https://youtu.be/jxDrvLw5NFU
 
 ## Judge Quick Start
 
