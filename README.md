@@ -154,10 +154,6 @@ For submission/demo packaging, capture:
 - explorer tx page URL
 - frontend screenshot showing intent lifecycle
 
-## License
-
-MIT License
-
 ## Team
 
 ShieldTrade: `info@shieldtrade.io`
