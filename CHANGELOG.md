@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.3-license (2026-03-13)
+
+- License updated from MIT to AIS Non-Commercial Source-Available License v1.0.
+- README license section updated to clarify noncommercial usage and separate commercial licensing requirement.
+
 ## 1.0.2-docs-live-data (2026-03-12)
 
 - Pulled live deployment metadata from `https://ais-polkadot.shieldtrade.io/` and Blockscout.

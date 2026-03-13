@@ -154,6 +154,14 @@ For submission/demo packaging, capture:
 - explorer tx page URL
 - frontend screenshot showing intent lifecycle
 
+## License
+
+This project is licensed under the AIS Non-Commercial Source-Available License v1.0.
+
+- Open source available for noncommercial use
+- Commercial use is not permitted without a separate commercial license from the copyright holder
+
+See [LICENSE](LICENSE) for details.
 ## Team
 
 ShieldTrade: `info@shieldtrade.io`
